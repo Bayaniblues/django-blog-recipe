@@ -1,6 +1,10 @@
 Building a blog app, recipe
 ---
-prereq
+Notes for Django 2 by example by Antonio Mele
+
+
+
+prerequisites
 
     python 3.7
     virtualenv
